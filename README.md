@@ -7,7 +7,7 @@
 1. [Документация Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/)
 2. [Доклад Антона Шувалова - Отладка кода в браузере](https://www.youtube.com/watch?v=hNIvcEcj-XA)
 3. [Доклад Романа Сальникова - Суперсилы Chrome Dev Tools](https://www.youtube.com/watch?v=3sV9yMhqAgk)
-4. [Доклад Paul Irish - DevTools: State of the Union 2017](https://www.youtube.com/watch?v=PjjlwAvV8Jg
+4. [Доклад Paul Irish - DevTools: State of the Union 2017](https://www.youtube.com/watch?v=PjjlwAvV8Jg)
 5. [Devtools Tips&Tricks #1](http://devtoolstips.com/)
 6. [Devtools Tips&Tricks #2](https://umaar.com/dev-tips/)
 7. [Доклад Martin Splitt - Rendering performance inside out](https://www.youtube.com/watch?v=BfMWAIc0xSU&feature=youtu.be)
