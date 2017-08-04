@@ -1,0 +1,22 @@
+body {
+  background-color: #E9E9E9;
+  color: #424242;
+  margin: 0;
+  padding: 10px;
+}
+
+.content {
+  margin: auto;
+  text-align: center;
+}
+
+.mouseTracker {
+  height: 400px;
+  width: 100%;
+  background-color: #24AEEF
+}
+
+.info {
+  margin-top: 20px;
+  font-size: 48px;
+}
