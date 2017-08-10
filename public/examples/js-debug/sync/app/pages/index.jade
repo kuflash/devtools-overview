@@ -1,0 +1,9 @@
+include ../blocks/calculator/calculator
+
+extends /blocks/layout-default/layout-default
+
+block head
+  - var pageTitle = 'Расчет суммы 2х чисел';
+
+block content
+  +calculator()

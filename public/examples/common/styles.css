@@ -1,0 +1,43 @@
+ul {
+  list-style: none;
+  font-size: 36px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #fff;
+  border: 4px solid #ccc;
+  font-size: 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  transition-property: background-color, border-color, color;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+.button_color_red {
+  background-color: #f44336;
+  border-color: #B71C1C;
+  color: #fff5f7
+}
+
+.button_color_green {
+  background-color: #8BC34A;
+  border-color: #33691E;
+  color: #f7fef0;
+}
+
+.button_size_md {
+  padding: 25px 50px;
+  font-size: 28px;
+}
+
+.button_size_lg {
+  padding: 30px 60px;
+  font-size: 32px;
+}
